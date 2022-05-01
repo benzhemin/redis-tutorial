@@ -1,4 +1,4 @@
-package com.rakusa.redissample;
+package com.rakusa.redissample.controller;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;

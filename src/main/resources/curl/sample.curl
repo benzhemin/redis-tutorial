@@ -1,0 +1,3 @@
+curl -d "id=123&name=hello" -X POST http://localhost:8080/saveCurrentUser
+
+curl -X GET http://localhost:8080/getCurrentUser\?id\=123
